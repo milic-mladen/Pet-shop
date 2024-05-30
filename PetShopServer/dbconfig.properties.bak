@@ -1,0 +1,4 @@
+#Mon Feb 21 01:07:19 CET 2022
+password=
+url=jdbc\:mysql\://localhost\:3306/rentacar
+username=root
